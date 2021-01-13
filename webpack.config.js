@@ -8,16 +8,19 @@ module.exports = {
     mode: 'development',
     entry: {
         main: './index.js',
-        //analytics: './analytics.js'
+        uikit: './ui-kit/ui-kit.js'
     },
     output: {
         filename: '[name].[contenthash].js',
         path: path.resolve(__dirname,'dist') 
     },
     plugins: [
+        new HTMLWebpackPlugin({ 
+            chunks: ['main'],
+            template: './index.pug' }),
         new HTMLWebpackPlugin({
-            //template: './index.html'
-            template: './index.pug'
+            chunks: ['uikit'],
+            template: './ui-kit/colors-type.pug'
         }),
         new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
