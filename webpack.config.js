@@ -16,12 +16,11 @@ module.exports = {
     },
     plugins: [
         new HTMLWebpackPlugin({ 
-            chunks: ['main'],
+            //chunks: ['main'],
             template: './index.pug' }),
         new HTMLWebpackPlugin({
-            chunks: ['uikit'],
-            template: './ui-kit/colors-type.pug'
-        }),
+            filename: './ui-kit/colors-type.html',
+            template: './ui-kit/colors-type.pug'}),
         new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
             filename: '[name].[contenthash].css'
