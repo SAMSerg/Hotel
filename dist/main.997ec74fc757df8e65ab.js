@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("\r\n//import './styles/styles'\r\n//import './styles/text-block/text-block.css'\r\n//import './styles/text-block/text-element/text-element.css'\r\n\r\n\n\n//# sourceURL=webpack:///./index.js?");
+eval("\r\n//import './styles/styles'\r\n//import './styles/text-block/text-block.css'\r\n//import './styles/text-block/text-element/text-element.css'\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ })
 
