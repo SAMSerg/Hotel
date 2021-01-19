@@ -8,7 +8,7 @@ module.exports = {
     mode: 'development',
     entry: {
         main: './index.js',
-        uikit: './ui-kit/ui-kit.js'
+        uikit: './ui-kit/colors-type.js'
     },
     output: {
         filename: '[name].[contenthash].js',
@@ -40,6 +40,10 @@ module.exports = {
                 test: /\.pug$/,
                 use: ['pug-loader']
             },
+            {
+                test: /\.(png|jpg|svg|gif)$/,
+                use: ['file-loader']
+            }
         ]
     }
 }

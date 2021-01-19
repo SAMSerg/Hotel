@@ -81,19 +81,32 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./ui-kit/ui-kit.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./ui-kit/colors-type.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./ui-kit/ui-kit.js":
-/*!**************************!*\
-  !*** ./ui-kit/ui-kit.js ***!
-  \**************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/***/ "./ui-kit/colors-type.js":
+/*!*******************************!*\
+  !*** ./ui-kit/colors-type.js ***!
+  \*******************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("\n\n//# sourceURL=webpack:///./ui-kit/ui-kit.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _logo_logo_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./logo/logo.css */ \"./ui-kit/logo/logo.css\");\n\r\n\n\n//# sourceURL=webpack:///./ui-kit/colors-type.js?");
+
+/***/ }),
+
+/***/ "./ui-kit/logo/logo.css":
+/*!******************************!*\
+  !*** ./ui-kit/logo/logo.css ***!
+  \******************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack:///./ui-kit/logo/logo.css?");
 
 /***/ })
 
