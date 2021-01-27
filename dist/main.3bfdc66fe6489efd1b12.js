@@ -90,10 +90,23 @@
 /*!******************!*\
   !*** ./index.js ***!
   \******************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("\r\n//import './styles/styles'\r\n//import './styles/text-block/text-block.css'\r\n//import './styles/text-block/text-element/text-element.css'\n\n//# sourceURL=webpack:///./index.js?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _ui_kit_colors_type_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ui-kit/colors-type.css */ \"./ui-kit/colors-type.css\");\n\r\n//import './styles/styles'\r\n//import './styles/text-block/text-block.css'\r\n//import './styles/text-block/text-element/text-element.css'\n\n//# sourceURL=webpack:///./index.js?");
+
+/***/ }),
+
+/***/ "./ui-kit/colors-type.css":
+/*!********************************!*\
+  !*** ./ui-kit/colors-type.css ***!
+  \********************************/
+/*! no exports provided */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n// extracted by mini-css-extract-plugin\n\n\n//# sourceURL=webpack:///./ui-kit/colors-type.css?");
 
 /***/ })
 
