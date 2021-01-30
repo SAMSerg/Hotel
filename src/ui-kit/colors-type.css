@@ -1,2 +1,8 @@
 @import "./logo/logo.css";
 @import "./logo/_header/logo_header.css";
+@import "./colors-group/colors-group.css";
+@import "./color-block/color-block.css";
+@import "./rectangle/rectangle.css";
+@import "./rectangle/_shade-100/rectangle_shade-100.css";
+@import "./page-conteiner/page-conteiner.css";
+@import "./page-conteiner/_body/page-conteiner_body.css";
