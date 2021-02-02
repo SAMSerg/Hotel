@@ -8,7 +8,7 @@
     margin-left: 30px;
 }
 .colors-group {
-    width: 281.26px;
+    max-width: 281.26px;
 }
 .color-block{
     max-width: 281.26px;
@@ -27,6 +27,17 @@
 }
 .page-conteiner_body{
 margin: 67px auto 0px auto;
+}
+.color-text{
+    max-width: 171px;
+}
+.color-text_h1 {
+    font-size: 19px;
+    font-weight: bold;
+}
+.color-text_p {
+    font-size: 19px;
+    font-weight: regular;
 }
 
 

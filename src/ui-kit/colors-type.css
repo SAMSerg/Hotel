@@ -6,3 +6,6 @@
 @import "./rectangle/_shade-100/rectangle_shade-100.css";
 @import "./page-conteiner/page-conteiner.css";
 @import "./page-conteiner/_body/page-conteiner_body.css";
+@import "./color-text/color-text.css";
+@import "./color-text/_h1/color-text_h1.css";
+@import "./color-text/_p/color-text_p.css";
