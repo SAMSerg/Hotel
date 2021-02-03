@@ -9,3 +9,4 @@
 @import "./color-text/color-text.css";
 @import "./color-text/_h1/color-text_h1.css";
 @import "./color-text/_p/color-text_p.css";
+@import "../fonts/montserrat.css";

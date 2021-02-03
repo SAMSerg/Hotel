@@ -1,3 +1,6 @@
 .color-text{
     max-width: 171px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
