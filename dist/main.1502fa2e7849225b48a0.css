@@ -53,5 +53,9 @@ margin: 67px auto 0px auto;
     font-family: 'Montserrat-Bold';
     src: url(079ca05d3ded9bc107ab8a8da013be22.ttf) format('truetype');
 }
+.color-block__colors-group{
+    padding-top: 20px;
+}
+
 
 
