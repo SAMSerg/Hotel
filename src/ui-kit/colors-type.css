@@ -4,6 +4,8 @@
 @import "./color-block/color-block.css";
 @import "./rectangle/rectangle.css";
 @import "./rectangle/_shade-100/rectangle_shade-100.css";
+@import "./rectangle/_shade-75/rectangle_shade-75.css";
+@import "./rectangle/_shade-50/rectangle_shade-50.css";
 @import "./page-conteiner/page-conteiner.css";
 @import "./page-conteiner/_body/page-conteiner_body.css";
 @import "./color-text/color-text.css";

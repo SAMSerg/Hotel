@@ -23,6 +23,12 @@
 .rectangle_shade-100 {
     background: #1F2041;
 }
+.rectangle_shade-75 {
+    background: #1F2041bd;
+}
+.rectangle_shade-50 {
+    background: #1F20417f;
+}
 .page-conteiner{
     max-width: 1133px;
     box-sizing: border-box;
