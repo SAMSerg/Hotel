@@ -13,7 +13,8 @@
 .color-block{
     max-width: 281.26px;
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
+    align-items: center;
 }
 .rectangle {
     width: 70px;
@@ -21,13 +22,16 @@
     border-radius: 6px;
 }
 .rectangle_shade-100 {
-    background: #1F2041;
+    background: #1F2041ff;
 }
 .rectangle_shade-75 {
     background: #1F2041bd;
 }
 .rectangle_shade-50 {
     background: #1F20417f;
+}
+.rectangle_shade-25 {
+    background: #1F20413f;
 }
 .page-conteiner{
     max-width: 1133px;
@@ -38,9 +42,10 @@ margin: 67px auto 0px auto;
 }
 .color-text{
     max-width: 171px;
+    padding-left: 40px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: left;
 }
 
 .color-text_h1 {
