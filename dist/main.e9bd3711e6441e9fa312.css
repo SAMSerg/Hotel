@@ -33,6 +33,15 @@
 .rectangle_shade-25 {
     background: #1F20413f;
 }
+.rectangle_shade-5 {
+    background: #1F20410C;
+}
+.rectangle_purple {
+    background: #BC9CFF;
+}
+.rectangle_green {
+    background: #6FCF97;
+}
 .page-conteiner{
     max-width: 1133px;
     box-sizing: border-box;
