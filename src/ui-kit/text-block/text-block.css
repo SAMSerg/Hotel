@@ -1,0 +1,6 @@
+.text-block{
+    max-width: 37px;
+    display: flex;
+    flex-direction: column;
+    justify-content: right;
+}

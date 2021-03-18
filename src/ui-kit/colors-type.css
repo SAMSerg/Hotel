@@ -2,6 +2,7 @@
 @import "./logo/_header/logo_header.css";
 @import "./colors-group/colors-group.css";
 @import "./color-block/color-block.css";
+@import "./color-block/__colors-group/color-block__colors-group.css";
 @import "./rectangle/rectangle.css";
 @import "./rectangle/_shade-100/rectangle_shade-100.css";
 @import "./rectangle/_shade-75/rectangle_shade-75.css";
@@ -16,5 +17,11 @@
 @import "./color-text/_h1/color-text_h1.css";
 @import "./color-text/_p/color-text_p.css";
 @import "../fonts/montserrat.css";
-@import "./color-block/__colors-group/color-block__colors-group.css";
+@import "./text-group/text-group.css";
+@import "./text-group/_pos/text-group_pos.css";
+@import "./text-block/text-block.css";
+@import "./text-block/__block1/text-block__block1.css";
+@import "./text-ui/text-ui.css";
+@import "./text-ui/__col25/text-ui__col25.css";
+@import "./text-ui/__H1/text-ui__H1.css";
 
